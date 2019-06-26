@@ -1,4 +1,4 @@
-FROM trion/ng-cli-karma:8.0.1
+FROM trion/ng-cli-karma:8.0.2
 
 # Creates the directory and all the parents (if they don’t exist)
 RUN mkdir -p /usr/share/man/man1 \

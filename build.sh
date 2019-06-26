@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build . -t nilsonaguiar/angular-sonar:latest
+docker build . -t nilsonaguiar/ng-cli-karma-sonar:latest
